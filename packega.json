@@ -1,0 +1,14 @@
+{
+  "name": "FutureBOT",
+  "version": "1.0.0",
+  "description": "The Future BOT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ilemy",
+  "license": "MLT",
+  "dependencies": {
+    "discord.js": "^11.3.0"
+  }
+}
